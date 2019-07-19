@@ -104,6 +104,9 @@ Enter your email address to get your photos.
    <div style={{fontSize: '12px', marginLeft: '2px'}}><span style={{fontStyle: 'italic', paddingLeft:'20px'}}>«I authorize BMAD to contact me for future promotions.»</span></div>
     </div>
       </div>
+      <a href="https://nomads.live"  style={{borderStyle: 'none', border: 0, display: 'flex', alignItems: 'center' }}>
+                                        <img src="Nomads02a_white.png" style={{paddingTop: '4vw', width: '50vw'}}></img>
+                                        </a>
     </div>
     <div>
     
@@ -119,9 +122,7 @@ Enter your email address to get your photos.
       <h3> Email Sent!</h3>
       <div style={{ display: 'flex'}}>
                                         <div style={{flexDirection: 'column'}}>
-                                        <a href="https://nomads.live"  style={{borderStyle: 'none', border: 0 }}>
-                                        <Logo1 />
-                                        </a>
+
                                       
        
         
@@ -136,7 +137,9 @@ Enter your email address to get your photos.
   
         
       </h3></div>
+      
     </div>
+
   </header>
 )
 }
